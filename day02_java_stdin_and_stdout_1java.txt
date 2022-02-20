@@ -1,4 +1,8 @@
-public static void main(String[] args) {
+Import java.until.*;
+
+Public class Solution {
+
+   public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         int x = scan.nextInt();
